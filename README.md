@@ -18,9 +18,12 @@ Joint effort by [David Mohundro](https://mohundro.com) and [Daniel Pritchett](ht
 
 ## Sponsors
 
-Many thanks to FIT and ClearFunction for making this course possible.
+Many thanks to FIT and ClearFunction for making this course possible. In particular, this would not have happened without support from Cody Behles and Colin Neller.
 
-[![fit logo](http://www.memphis.edu/fedex/siteimages/fit_memtech.png) FedEx Institute of Technology ](http://www.memphis.edu/fedex/)
+![fit logo](img/fitlogo.png)
 
+### [FedEx Institute of Technology ](http://www.memphis.edu/fedex/)
 
-[![CF logo](https://avatars2.githubusercontent.com/u/12205845?v=3&s=200) Clear Function](http://clearfunction.com)
+![CF logo](https://avatars2.githubusercontent.com/u/12205845?v=3&s=200)
+
+### [Clear Function LLC](http://clearfunction.com)
