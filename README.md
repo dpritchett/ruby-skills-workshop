@@ -1,4 +1,5 @@
-# ruby-skills-workshop
+# Ruby Skills Workshop: Course Materials
+
 Notes for the Ruby Skills Workshop taught in conjunction with the University of Memphis
 
 * [Setup requirements](SETUP.md)
@@ -10,7 +11,15 @@ Notes for the Ruby Skills Workshop taught in conjunction with the University of 
 * [Day 1 - Ruby Intro](https://clearfunction.github.io/ruby-skills-workshop/slides/01-ruby-intro/)
 * [Day 2 - Source Control](https://clearfunction.github.io/ruby-skills-workshop/slides/03-git-and-hosting/)
 
+## Curriculum and instruction
+
+Joint effort by [David Mohundro](https://mohundro.com) and [Daniel Pritchett](https://dpritchett.net).
+
+
 ## Sponsors
+
+Many thanks to FIT and ClearFunction for making this course possible.
+
 [![fit logo](http://www.memphis.edu/fedex/siteimages/fit_memtech.png) FedEx Institute of Technology ](http://www.memphis.edu/fedex/)
 
 
